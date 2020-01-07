@@ -1,7 +1,8 @@
 ﻿using System;
+using CoreCodedChatbot.Config;
 using Microsoft.Extensions.Configuration;
 
-namespace CoreCodedChatbot.Config
+namespace CodedGhost.Config
 {
     public class ConfigService : IConfigService
     {

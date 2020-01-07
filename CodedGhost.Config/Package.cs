@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using CodedGhost.Config;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CoreCodedChatbot.Config
