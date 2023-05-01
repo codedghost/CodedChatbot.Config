@@ -13,7 +13,7 @@ name: 1.0.$(BuildID)
 steps:
 - task: UseDotNet@2
   inputs:
-    packageType: 'sdk'
+    packageType: 'runtime'
     version: '7.x'
 - task: NuGetToolInstaller@1
   inputs:
